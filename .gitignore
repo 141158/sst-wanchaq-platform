@@ -24,3 +24,12 @@ pnpm-debug.log*
 .DS_Store
 Thumbs.db
 *.log
+
+# LaTeX (solo local para Overleaf)
+*.tex
+*.aux
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz

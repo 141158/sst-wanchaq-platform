@@ -58,7 +58,9 @@ Plataforma integral web y móvil diseñada para gestionar, monitorear y certific
 ```text
 sst-wanchaq-platform/
 ├── docs/
-│   └── Entrega_1_SST_Wanchaq.md   # Documentación Parcial (Cap. I y Bosquejo Cap. II)
+│   ├── Entrega_1_SST_Wanchaq.md   # Documentación Parcial (Cap. I y Bosquejo Cap. II)
+│   ├── Entrega_1_SST_Wanchaq.tex  # Informe en LaTeX listo para Overleaf (sin carátula)
+│   └── imagenes/                  # Capturas oficiales de Jira y GitHub (Entrega Nro. 1)
 ├── backend/                       # (Próximo en Sprint 1-2) API REST Node.js (NestJS)
 ├── web/                           # (Próximo en Sprint 1-2) Plataforma Web React + TS + Tailwind
 ├── mobile/                        # (Próximo en Sprint 2) Aplicación Móvil Flutter

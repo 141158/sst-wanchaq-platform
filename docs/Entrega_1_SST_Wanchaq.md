@@ -158,9 +158,11 @@ El Product Backlog inicial fue estructurado y priorizado directamente en **Jira 
 | `SCRUM-27` | HU-17 | EP-6 | Exportación del Registro Oficial de Capacitación (Formato R.M. 050-2013-TR) | High | 5 | Sprint 4 *(Backlog)* | Abelardo Ttito |
 | `SCRUM-28` | HU-18 | EP-6 | Panel de métricas de impacto sostenible (Ambiental, Social y Económico) | Medium | 5 | Sprint 4 *(Backlog)* | Cesar Saire |
 
-> **[INSERTAR CAPTURA 1 AQUÍ]:** *Captura del Backlog de Jira (`sstcuscowanchaq.atlassian.net`) mostrando el Panel de Épicas a la izquierda, Sprint 1, Sprint 2 y el Product Backlog priorizado con Story Points y responsables.*
+![Figura 1: Vista completa del Product Backlog priorizado en Jira Software con las 6 Épicas, Sprint 1, Sprint 2 y Backlog](imagenes/captura1_jira_backlog.jpg)
+*Figura 1. Product Backlog inicial priorizado en Jira Software (`sstcuscowanchaq.atlassian.net`), mostrando el panel de 6 Épicas, Sprint 1 (16 SP), Sprint 2 (34 SP) y Backlog priorizado (42 SP) con responsables asignados.*
 
-> **[INSERTAR CAPTURA 2 AQUÍ]:** *Captura del detalle de una Historia de Usuario en Jira (ej. `SCRUM-14` o `SCRUM-19`) mostrando la redacción "Como/Quiero/Para", los Criterios de Aceptación en Gherkin, etiqueta LPDP y vinculación a su Épica.*
+![Figura 2: Detalle de la Historia de Usuario SCRUM-14 con criterios Gherkin y cumplimiento LPDP](imagenes/captura2_jira_hu_lpdp.jpg)
+*Figura 2. Detalle de la Historia de Usuario `SCRUM-14` (`[HU-04] Consentimiento informado digital y logs de auditoría - Ley N° 29733 LPDP`), evidenciando formato Como/Quiero/Para, criterios de aceptación Gherkin, Story Points y vinculación a la Épica `SCRUM-5`.*
 
 ### C. Requisitos No Funcionales (RNF)
 
@@ -206,7 +208,8 @@ El desarrollo completo del sistema se planifica en **4 Sprints** alineados a los
 | **Sprint 3** *(Backlog)* | Semanas 7 – 11 | Implementación del portal móvil del trabajador, notificaciones push, evaluaciones automatizadas y emisión de certificados/carnets PDF verificables con QR. | `HU-11`, `HU-12`, `HU-13`, `HU-14` | **21 SP** | Incremento funcional (80%): App Capacitando + Evaluaciones + Certificados QR. |
 | **Sprint 4** *(Backlog)* | Semanas 12 – 16 | Dashboard gerencial de cumplimiento SST, alertas Ley 29783, exportación R.M. 050-2013-TR, métricas de impacto sostenible, pruebas finales y despliegue en Cloud. | `HU-15`, `HU-16`, `HU-17`, `HU-18` | **21 SP** | **Entrega Nro. 3 (Sem. 16):** Informe Final (Cap. I–VII), GitHub completo y **Sistema 100% en Cloud**. |
 
-> **[INSERTAR CAPTURA 3 AQUÍ]:** *Captura del Tablero Activo (Sprint 1) en Jira mostrando las columnas ("Tareas por hacer", "En curso", "Listo") con las historias `SCRUM-11` a `SCRUM-14`.*
+![Figura 3: Tablero Scrum Activo del Sprint 1 en Jira Software](imagenes/captura3_jira_tablero_sprint1.png)
+*Figura 3. Tablero activo del Sprint 1 ("Base, Arquitectura y Usuarios SST") en Jira Software, mostrando las columnas de flujo Scrum y las cuatro historias iniciales (`SCRUM-11` a `SCRUM-14`) asignadas al equipo.*
 
 ---
 
@@ -220,6 +223,8 @@ Para garantizar la trazabilidad, transparencia y comunicación ágil del equipo 
 4. **Figma:** Diseño colaborativo de prototipos de baja y alta fidelidad (interfaces Web administrativas y vistas de la App Móvil Flutter).
 5. **Discord / WhatsApp:** Canal de comunicación diaria para la coordinación de *Daily Scrums* (15 minutos), resolución rápida de impedimentos y coordinación de *Sprint Reviews*.
 
-> **[INSERTAR CAPTURA 4 AQUÍ]:** *Captura del repositorio en GitHub (`github.com/141158/sst-wanchaq-platform`) mostrando el `README.md` y la estructura inicial del proyecto.*
+![Figura 4: Repositorio del proyecto en GitHub con documentación inicial](imagenes/captura4_github_repositorio.jpg)
+*Figura 4. Repositorio oficial en GitHub (`141158/sst-wanchaq-platform`), evidenciando la estructura inicial (`docs/`, `.gitignore`, `README.md`) y el primer commit trazado a Jira (`SCRUM-5`).*
 
-> **[INSERTAR CAPTURA 5 AQUÍ]:** *Captura de la pantalla de "Personas / Acceso" o "Apps -> GitHub for Jira" en Jira evidenciando a los 4 integrantes del equipo y la vinculación activa con GitHub.*
+![Figura 5: Integración bidireccional Jira–GitHub evidenciada en la Épica SCRUM-5](imagenes/captura5_jira_github_integracion.png)
+*Figura 5. Panel "Desarrollo de SCRUM-5" en Jira Software mostrando la vinculación automática del commit `607a72e` desde el repositorio GitHub `141158/sst-wanchaq-platform`.*
